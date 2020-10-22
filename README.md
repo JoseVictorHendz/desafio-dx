@@ -12,6 +12,7 @@ Execução do projeto
 =
 * ### Rode ```yarn``` para instalar todas as dependências.
 * ### Execute o seguinte comando ```yarn typeorm migration:run``` para gerar as tabelas do banco e populalo. [Arquivos que geram e populam o banco](https://github.com/JoseVictorHendz/test-dx/tree/main/src/database/migrations).
+* ### Rode ```yarn dev``` para executar o projeto.
 
 Observações
 =
