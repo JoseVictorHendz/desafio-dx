@@ -22,7 +22,7 @@ Observações
 
 Requisitos
 =
-# Requisitos do [desafio](http://bit.ly/exerciciodevbackend)
+# Requisitos do desafio
 ## O sistema deve permitir a criação de usuários (clientes).
 ```
 POST: localhost:3333/user
